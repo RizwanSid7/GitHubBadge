@@ -7,7 +7,7 @@ Badge Details:
 Issued by: GitHub
 Issued on: September 24, 2024
 Valid until: September 24, 2027
-Verification link: 
+Verification link: https://www.credly.com/badges/1fedb284-18c8-4a42-bb46-d39acefac5bc/print
 
 Topics Covered:
 
